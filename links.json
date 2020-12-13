@@ -1,18 +1,13 @@
 [
     {
-      "name": "Youtube - 손뜨개기록 #3 구독자 이벤트",
-      "uri": "https://youtu.be/wMEsljuN3kY",
-      "id": "youtube_이벤트"
-    },
-    {
       "name": "크리스마스 홀리베리 양말 키트",
-      "uri": "https://meiqing9.blog.me/222159480402",
-      "id": "naver_blog_양말키트"
+      "uri": "https://smartstore.naver.com/ordinaryknitting/products/5264155632",
+      "id": "naver_smartstore_홀리베리양말키트"
     },
     {
-      "name": "크리스마스 뜨개 마커링",
-      "uri": "https://meiqing9.blog.me/222159485632",
-      "id": "naver_blog_마커링"
+      "name": "보통의 뜨개@스마트스토어",
+      "uri": "https://smartstore.naver.com/ordinaryknitting",
+      "id": "naver_smartstore_main"
     },
     {
       "name": "신낑깡 on YouTube",
@@ -25,7 +20,7 @@
       "id": "youtube_랜뜨방"
     },
     {
-      "name": "신낑깡의 네이버 블로그",
+      "name": "신낑깡 on Blog",
       "uri": "https://blog.naver.com/meiqing9",
       "id": "naver_blog"
     }
